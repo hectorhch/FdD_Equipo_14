@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/fernando.png" width="90"/> | **FERNANDO MATÍAS FERNANDEZ GAMONAL** | Encargado de documentación| Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/jordan.png" width="90"/> | **JORDAN ADRIAN MARQUIÑO NIEVA** | Diseñador | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/leslye.png" width="90"/> | **LESLYE TATIANA TADEO ARQUINIGO** |  Responsable de investigación  | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/carlos.png" width="90"/> | **CARLOS ANTONIO HIDALGO CASTILLO** | Programador - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/carlos.png" width="90"/> | **CARLOS ANTONIO HIDALGO CASTILLO** | Programador - Modelador | Programación, análisis de datos, simulación |
 
 ---
 
