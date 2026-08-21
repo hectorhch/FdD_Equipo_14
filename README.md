@@ -1,24 +1,26 @@
-# Equipo XIV - Fundamentos de Diseño
+# Equipo 0X - Nombre del curso
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 14** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**   
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
+- ODS 3: Salud y Bienestar  
+- ODS 6: Agua Limpia y Saneamiento  
 - ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Vida y Ecosistemas sostenibles 
-- ODS 15: Acción por el Clima  
+- ODS 11: Ciudades y Comunidades Sostenibles  
+- ODS 13: Acción por el Clima  
 
 ---
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="Fotografía del equipo" src="Recursos/Imágenes/fotogrupo.png" />
-  <em>Figura 1. Fotografía del equipo XIV</em>
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+  <em>Figura 1. Fotografía del equipo 0X</em>
 </p>
 
 ---
@@ -27,13 +29,13 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/hector.png" width="90"/> | **HÉCTOR RAÚL HUARCAYA CHIPANA** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/fernando.png" width="90"/> | **FERNANDO MATÍAS FERNANDEZ GAMONAL** | Encargado de documentación| Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/jordan.png" width="90"/> | **JORDAN ADRIAN MARQUIÑO NIEVA** | Diseñador | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/leslye.png" width="90"/> | **LESLYE TATIANA TADEO ARQUINIGO** |  Responsable de investigación  | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/carlos.png" width="90"/> | **CARLOS ANTONIO HIDALGO CASTILLO** | Programador - Modelador | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Leslye** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/jordan.png" width="90"/> | **Jordan Marquiño Nieva  ** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/leslye.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Leslye Tadeo Arquinigo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
 ## 📌 Resumen Final  
-En conclusión, este trabajo atravez de los ODS 9, 11 y 15 busca promover la innovación y el desarrollo sostenible, creando comunidades más responsables y protegiendo nuestros ecosistemas y recursos naturales para mejorar la calidad de vida..  
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
