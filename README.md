@@ -27,11 +27,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **FERNANDEZ GAMONAL FERNANDO MATÍAS** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **HIDALGO CASTILLO CARLOS ANTONIO** | Encargado/a de documentación| Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **HUARCAYA CHIPANA HECTOR RAUL** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/leslye.png" width="90"/> | **TADEO ARQUINIGO LESLYE TATIANA** |  Responsable de investigación  | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **MARQUIÑO NIEVA JORDAN ADRIAN** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/hector.png" width="90"/> | **HÉCTOR RAÚL HUARCAYA CHIPANA** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/fernando.png" width="90"/> | **FERNANDO MATÍAS FERNANDEZ GAMONAL** | Encargado/a de documentación| Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/jordan.png" width="90"/> | **JORDAN ADRIAN MARQUIÑO NIEVA** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/leslye.png" width="90"/> | **LESLYE TATIANA TADEO ARQUINIGO** |  Responsable de investigación  | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/carlos.png" width="90"/> | **CARLOS ANTONIO HIDALGO CASTILLO** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
