@@ -41,10 +41,6 @@
 
 ## Bibliografía
 
-1. [PDF] Desarrollo de un sensor optoelectrónico para la detección y clasificación de la mosca de la fruta (Diptera: Tephritidae) para su uso en trampas inteligentes en tiempo real | Semantic Scholar [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://www.semanticscholar.org/paper/Development-of-an-Optoelectronic-Sensor-for-and-Fly-Moraes-Nava/bd6e19f8948e2c24342fe205cc08aab965fa8c14      
-
-2. Ashwini A, Shahila DFD, Lekshmi BS, Pratheep G, Nandu B, Ratheesh I. AgroChromaBot: Smart Leaf Color-Sensing Robot for Selective Intelligent Pest Management. En: 2025 6th International Conference on Electronics and Sustainable Communication Systems (ICESC) [Internet]. 2025 [citado 3 de septiembre de 2026]. p. 1719-24. Disponible en: https://ieeexplore.ieee.org/document/11212356 doi:10.1109/ICESC65114.2025.11212356   
-
 1. [PDF] Desarrollo de un sensor optoelectrónico para la detección y clasificación de la mosca de la fruta (Diptera: Tephritidae) para su uso en trampas inteligentes en tiempo real | Semantic Scholar [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://www.semanticscholar.org/paper/Development-of-an-Optoelectronic-Sensor-for-and-Fly-Moraes-Nava/bd6e19f8948e2c24342fe205cc08aab965fa8c14 
 
 2. Ashwini A, Shahila DFD, Lekshmi BS, Pratheep G, Nandu B, Ratheesh I. AgroChromaBot: Smart Leaf Color-Sensing Robot for Selective Intelligent Pest Management. En: 2025 6th International Conference on Electronics and Sustainable Communication Systems (ICESC) [Internet]. 2025 [citado 3 de septiembre de 2026]. p. 1719-24. Disponible en: https://ieeexplore.ieee.org/document/11212356 doi:10.1109/ICESC65114.2025.11212356     
