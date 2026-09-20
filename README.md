@@ -1,5 +1,6 @@
 # Equipo XIV - Fundamentos de Diseño
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+### VIDTAL
+### Sistema de Detección y Notificación de Polillas (Spodoptera Frugiperda) en Cultivos de Uva de Mesa
 **Universidad Peruana Cayetano Heredia**
 
 ---
