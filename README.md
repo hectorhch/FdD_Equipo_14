@@ -36,11 +36,11 @@ Nuestro objetivo es desarrollar un sistema de sensores que nos permita detectar 
 
 ## ⚠️ Problemática delimitada
 
-Dentro de la **ODS 12**, el equipo se enfocará en el **uso ineficiente de los recursos naturales durante la producción y comercialización de alimentos**, relacionado con las dificultades para monitorear oportunamente el estado y la calidad de los productos.
+Dentro de la **ODS 12: Producción y consumo responsables**, el proyecto **VIDTAL – Sistema de Detección y Notificación de *Spodoptera frugiperda* en Cultivos de Uva de Mesa** se enfoca en el uso ineficiente de recursos agrícolas ocasionado por la detección tardía de plagas.
 
-En las cadenas de producción y comercialización de alimentos, la falta de información precisa sobre las condiciones de los productos puede dificultar la toma de decisiones oportunas. Cuando los cambios en la calidad no son identificados a tiempo, pueden generarse pérdidas de alimentos y un uso innecesario de recursos empleados en su producción, como **agua, energía, materias primas y otros insumos**.
+En los cultivos de uva de mesa, la falta de un monitoreo oportuno de *Spodoptera frugiperda* puede dificultar la identificación temprana de focos de infestación, generando pérdidas en la producción y un uso innecesario de **productos fitosanitarios, agua, energía y mano de obra**. 
 
-Por esta razón, el problema se delimita al **uso ineficiente de los recursos naturales asociado a la falta de monitoreo oportuno de la calidad de los alimentos durante las etapas de producción y comercialización**. Esta situación puede contribuir tanto al desperdicio de alimentos como a un mayor impacto ambiental de los procesos productivos.
+Por ello, **VIDTAL** busca detectar y notificar oportunamente la presencia de esta plaga, facilitando la toma de decisiones y permitiendo un manejo más preciso del cultivo. De esta manera, el proyecto contribuye a **optimizar el uso de los recursos agrícolas, reducir pérdidas y promover una producción de uva de mesa más sostenible**, en concordancia con la **ODS 12**.
 
 ---
 
