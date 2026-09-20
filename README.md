@@ -58,6 +58,20 @@ De manera complementaria, el problema se relaciona con la **Meta 12.3**, orienta
 
 En este caso, el desperdicio de alimentos se considera una consecuencia vinculada al uso ineficiente de los recursos y a las dificultades para determinar oportunamente el estado de los productos.
 
+## Marco Teórico
+
+# Sensores Optoelectrónicos Infrarrojos 
+
+Los sensores optoelectrónicos infrarrojos utilizan fototransistores para captar la señal de la oclusión parcial de la luz infrarroja causada por el batido de las alas de los insectos. Moraes et al. (2019) desarrollaron un sensor de este tipo que, junto con los algoritmos PEDA (detección de eventos de paso mediante valor RMS de ventana deslizante) y CAEC (extracción de características mediante autocorrelación y transformada de Fourier), permite la detección y clasificación en tiempo real de Anastrepha fraterculus y Ceratitis capitata en laboratorio. 
+
+# Sensores Acústicos 
+
+Los sensores acústicos reciben las frecuencias de sonido generadas por la actividad de los insectos. La combinación de señales acústicas con señales infrarrojas permite mejorar la precisión en la clasificación de especies, diferenciando entre distintos tipos de insectos por sus patrones de sonido (Potamitis et al., 2015, citado en Moraes et al., 2019). 
+
+# Sensores de Temperatura 
+
+La temperatura ambiental es un factor determinante en la actividad de las plagas. Cada especie tiene umbrales específicos de temperatura para su desarrollo, reproducción y actividad (Szyniszewska & Tatem, 2014). La integración de un sensor de temperatura permite correlacionar los datos de sensores infrarrojos y acústicos con las condiciones ambientales, mejorando la precisión predictiva del sistema y reduciendo falsos positivos. 
+
 ---
 
 ## 📌 Resumen Final  
