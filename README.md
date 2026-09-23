@@ -1,8 +1,10 @@
-# Equipo XIV - Fundamentos de Diseño
+<p align="center">
+  
+  # Equipo XIV - Fundamentos de Diseño
 
 <p align="center">
   
-# VIDTAL
+  # VIDTAL
 
 <p align="center">
 <img src="/Recursos/Imágenes/logo.jpg" width="500"/>
