@@ -1,11 +1,13 @@
 # Equipo XIV - Fundamentos de Diseño
 
 <p align="center">
+  
 # VIDTAL
 
 <p align="center">
 <img src="/Recursos/Imágenes/logo.jpg" width="500"/>
-# <center>Sistema de Detección y Notificación de Polillas (Spodoptera Frugiperda) en Cultivos de Uva de Mesa</center>
+  
+# Sistema de Detección y Notificación de Polillas (Spodoptera Frugiperda) en Cultivos de Uva de Mesa</center>
 
 **Universidad Peruana Cayetano Heredia**
 
