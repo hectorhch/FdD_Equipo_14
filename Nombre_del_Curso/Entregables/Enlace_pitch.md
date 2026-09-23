@@ -1,7 +1,6 @@
 <p align="center">
-<img width="1408" height="768" src="Recursos/Imágenes/pitch.png" />
-  <em>Figura 1. Portada del video</em>
-</p>
+
+<img src="/Recursos/Imágenes/pitch.png" width="90"/>
 
 ## https://www.youtube.com/watch?v=ruyHme4SSsI
 
