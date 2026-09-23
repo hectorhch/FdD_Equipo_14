@@ -1,6 +1,6 @@
 <p align="center">
-<img width="1408" height="768" alt="Fotografía del equipo" src="Recursos/Imágenes/pitch.png" />
-  <em>Figura 1. Fotografía del equipo XIV</em>
+<img width="1408" height="768" alt="Miniatura del video" src="Recursos/Imágenes/pitch.png" />
+  <em>Figura 1. Portada del video</em
 </p>
 
 
