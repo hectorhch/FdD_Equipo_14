@@ -1,4 +1,7 @@
-<p align="center">
+<div align="center">
+  
+  # Equipo XIV - Fundamentos de Diseño
+</div>
   
   # Equipo XIV - Fundamentos de Diseño
 
