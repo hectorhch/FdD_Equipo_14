@@ -1,5 +1,11 @@
 <div align="center">
   
+| <img src="/Recursos/Imágenes/logoupch.png" width="90"/> | # Facultad de Ciencias e Ingeniería - Universidad Peruana Cayetano Heredia |
+|---------------------------------------------------------|----------------------------------------------------------------------------|
+</div>
+
+<div align="center">
+  
   # Equipo XIV - Fundamentos de Diseño
 </div>
   
