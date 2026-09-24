@@ -62,6 +62,9 @@ En los cultivos de uva de mesa, la falta de un monitoreo oportuno de *Spodoptera
 
 Por ello, **VIDTAL** busca detectar y notificar oportunamente la presencia de esta plaga, facilitando la toma de decisiones y permitiendo un manejo más preciso del cultivo. De esta manera, el proyecto contribuye a **optimizar el uso de los recursos agrícolas, reducir pérdidas y promover una producción de uva de mesa más sostenible**, en concordancia con la **ODS 12**.
 
+<p align="center">
+<img src="/Recursos/Imágenes/ods12.png" width="500"/>
+
 ---
 
 ## 🎯 Meta principal: ODS 12.2
