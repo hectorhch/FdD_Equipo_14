@@ -3,19 +3,22 @@
   # Equipo XIV - Fundamentos de Diseño
 </div>
   
-  # Equipo XIV - Fundamentos de Diseño
-
-<p align="center">
+<div align="center">
   
   # VIDTAL
+</div>
 
 <p align="center">
 <img src="/Recursos/Imágenes/logo.jpg" width="500"/>
   
 # Sistema de Detección y Notificación de Polillas (Spodoptera Frugiperda) en Cultivos de Uva de Mesa</center>
 
-**Universidad Peruana Cayetano Heredia**
-
+<div align="center">
+  
+  ### Facultad de Ciencias e Ingeniería - Universidad Peruana Cayetano Heredia 
+</div>
+<p align="center">
+<img src="/Recursos/Imágenes/logoupch.jpg" width="500"/>
 ---
 
 ## 🌍 Descripción del Equipo 
