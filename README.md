@@ -5,7 +5,7 @@
   
 <div align="center">
   
-  # VIDTAL
+  # Proyecto VIDTAL
 </div>
 
 <p align="center">
