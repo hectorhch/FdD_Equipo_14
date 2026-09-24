@@ -10,8 +10,12 @@
 
 <p align="center">
 <img src="/Recursos/Imágenes/logo.jpg" width="500"/>
+
+
+<div align="center">
   
 # Sistema de Detección y Notificación de Polillas (Spodoptera Frugiperda) en Cultivos de Uva de Mesa</center>
+</div>
 
 <div align="center">
   
@@ -19,6 +23,7 @@
 </div>
 <p align="center">
 <img src="/Recursos/Imágenes/logoupch.png" width="450"/>
+  
 ---
 
 ## 🌍 Descripción del Equipo 
