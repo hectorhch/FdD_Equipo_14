@@ -18,7 +18,7 @@
   ### Facultad de Ciencias e Ingeniería - Universidad Peruana Cayetano Heredia 
 </div>
 <p align="center">
-<img src="/Recursos/Imágenes/logoupch.jpg" width="500"/>
+<img src="/Recursos/Imágenes/logoupch.png" width="450"/>
 ---
 
 ## 🌍 Descripción del Equipo 
