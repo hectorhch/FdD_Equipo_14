@@ -45,7 +45,7 @@ Para optimizar el código y evitar la repetición de instrucciones, se programó
 
   
 <p align="center">
-<img src="/Recursos/Imágenes/tiker2.jpeg" width="500"/>
+<img src="/Recursos/Imágenes/tinker2.jpeg" width="500"/>
 
 
 <div align="center">
