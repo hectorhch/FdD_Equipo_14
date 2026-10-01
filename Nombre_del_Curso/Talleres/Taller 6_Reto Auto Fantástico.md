@@ -25,11 +25,31 @@ El circuito se implementó interconectando múltiples elementos de salida digita
 
 ### **5\. Código de Programación (Software)**
 
+<p align="center">
+<img src="/Recursos/Imágenes/carduino.jpeg" width="500"/>
+
+
+<div align="center">
+  
+
 Para optimizar el código y evitar la repetición de instrucciones, se programó utilizando arreglos unidimensionales (*arrays*) y estructuras iterativas de control (for) en el entorno de desarrollo Arduino IDE:
 
 
 
 **6\.** **Imágenes del Reto \#3 realizado en TinkerCad:**
+<p align="center">
+<img src="/Recursos/Imágenes/tinker1.jpeg" width="500"/>
+
+
+<div align="center">
+
+  
+<p align="center">
+<img src="/Recursos/Imágenes/tiker2.jpeg" width="500"/>
+
+
+<div align="center">
+  
 
 (Imágenes tomadas del TinkerCad, la imagen de la izquierda indica el regreso del patron de los LEDS, la imagen de la derecha se evidencia como va avanzando este patron, lo cual es ida y vuelta)
 
