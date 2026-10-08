@@ -2,7 +2,5 @@
   
 <img src="/Recursos/Imágenes/video_parcial.png" width="1000"/>
 
-</div>
-
 
 ##https://www.youtube.com/watch?v=No25v9lk-OU
