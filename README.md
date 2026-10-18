@@ -36,7 +36,7 @@ Nuestro objetivo es desarrollar un sistema de sensores que nos permita detectar 
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="Fotografía del equipo" src="Recursos/Imágenes/fotogrupo.png" />
-  <em>Figura 1. Representación del espacio de estados para el desarrollo de un modelo predictivo del sueño neonatal.</em>
+  <em>Figura 1. Fotografía del Equipo XIV</em>
 </p>
 
 ---
