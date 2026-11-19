@@ -27,7 +27,7 @@
 
 ## 🌍 Descripción del Equipo 
 Somos el **Equipo 14** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+aplicamos la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nuestro objetivo es desarrollar un sistema de sensores que nos permita detectar y visualizar plagas en los cultivos de uva  a tiempo real. Con esta tecnología buscamos controlar las plagas de forma inteligente, sin necesidad de fumigar en exceso. De esta manera nos alineamos con el **ODS 12 de Producción y Consumo Responsables**, porque reducimos el desperdicio de pesticidas, cuidamos el suelo y el agua, y aseguramos una producción agrícola más sana, eficiente y sostenible para todos.
 
