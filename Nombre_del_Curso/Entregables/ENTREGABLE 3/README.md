@@ -1,10 +1,10 @@
 Prototipos
-
+nuestros prototipos se realizaron en base a las retroalimentaciones de los profesores, debido a que en un comienzo se asignó otro tipo de modelo que empiricamente era complicado adaptarlo 
  <p align="center">
-<img src="/Recursos/Imágenes/PROTOTITPO 1.jpeg" width="500"/>
+<img src="/Recursos/Imágenes/PROTOTITPO 1.jpeg" width="600"/>
 
 <p align="center">
-<img src="/Recursos/Imágenes/Boceto técnico del VIDTAL V16-3.png" width="500"/>
+<img src="/Recursos/Imágenes/Boceto técnico del VIDTAL V16-3.png" width="700"/>
 Presentamos en link de One shape
 https://cad.onshape.com/documents/adc0ac7b5d26842fc39e2610/w/8201609f4aa3a00f7535a162/e/51898e513cd294146749d164
 
