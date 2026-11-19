@@ -29,7 +29,11 @@
     <strong>Lima - Perú</strong><br>
     Noviembre de 2026
   </p>
+</div>
 
+<br><br><br><br><br>
+<hr>
+<br><br><br>
 </div>
 <div align="center">
   <h1>PROTOTIPO</h1>
