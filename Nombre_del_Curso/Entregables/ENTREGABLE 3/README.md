@@ -1,4 +1,5 @@
-Prototipos
+<div align="center">
+  <h1>PROTOTIPO</h1>
 nuestros prototipos se realizaron en base a las retroalimentaciones de los profesores, debido a que en un comienzo se asignó otro tipo de modelo que empiricamente era complicado adaptarlo 
 
  <p align="center">
