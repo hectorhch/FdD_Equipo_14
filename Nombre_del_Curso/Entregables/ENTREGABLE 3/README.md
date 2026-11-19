@@ -1,4 +1,37 @@
 <div align="center">
+
+  <h2>UNIVERSIDAD PERUANA CAYETANO HEREDIA</h2>
+  <h3>FACULTAD DE CIENCIAS E INGENIERÍA</h3>
+  <br>
+  <img src="/Recursos/Imágenes/TU_IMAGEN.png" width="350" alt="Logo o imagen institucional" />
+  <br><br>
+  <h1>Entregable 3 - Avance</h1>
+  <br>
+
+  <h3>Integrantes</h3>
+  <p>
+    Huarcaya Chipana, Héctor<br>
+    Hidalgo Castillo, Carlos Antonio<br>
+    Fernandez Gamonal, Fernando Matias<br>
+    Marquiño Nieva, Jordan Adriano<br>
+    Tadeo Arquinigo, Leslye Tatiana
+  </p>
+
+  <h3>Docentes</h3>
+  <p>
+    Contreras Paucca, Jhomer Rodrigo<br>
+    Da Silva, Jose Luiz<br>
+    Esquiagola Aranda, John Edward
+  </p>
+
+  <br>
+  <p>
+    <strong>Lima - Perú</strong><br>
+    Noviembre de 2026
+  </p>
+
+</div>
+<div align="center">
   <h1>PROTOTIPO</h1>
 nuestros prototipos se realizaron en base a las retroalimentaciones de los profesores, debido a que en un comienzo se asignó otro tipo de modelo que empiricamente era complicado adaptarlo 
 
