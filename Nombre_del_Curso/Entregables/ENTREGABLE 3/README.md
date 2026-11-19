@@ -3,7 +3,7 @@
   <h2>UNIVERSIDAD PERUANA CAYETANO HEREDIA</h2>
   <h3>FACULTAD DE CIENCIAS E INGENIERÍA</h3>
   <br>
-  <img src="/Recursos/Imágenes/TU_IMAGEN.png" width="350" alt="Logo o imagen institucional" />
+  <img src="/Recursos/Imágenes/logoupch.jpg" width="350" alt="Logo o imagen institucional" />
   <br><br>
   <h1>Entregable 3 - Avance</h1>
   <br>
