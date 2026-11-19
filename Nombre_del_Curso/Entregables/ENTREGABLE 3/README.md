@@ -51,3 +51,6 @@ nuestros prototipos se realizaron en base a las retroalimentaciones de los profe
 Presentamos en link de One shape
 https://cad.onshape.com/documents/adc0ac7b5d26842fc39e2610/w/8201609f4aa3a00f7535a162/e/51898e513cd294146749d164
 
+Presentamos en link de EasyEDA
+https://u.easyeda.com/join?type=project&key=a0619f1729f0c121cdeff452665f5185&inviter=0351cbfd9f574ec9992b3cac7d51c8f4
+
